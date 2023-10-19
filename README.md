@@ -20,6 +20,5 @@
 
 Super excited to see how it can help folks make better financial choices. 🚀🔮💼
 
-[Demo Video](example.mp4)
-
+![Demo Video](demo.gif)
 
