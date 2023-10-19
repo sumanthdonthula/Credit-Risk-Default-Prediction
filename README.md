@@ -20,4 +20,3 @@
 
 Super excited to see how it can help folks make better financial choices. 🚀🔮💼
 
-If you're curious to see how it all works, view the project on GitHub 🌐🔗📈 #MachineLearning #CreditCardPrediction #DataScience #AI #UCI #XGBoost
