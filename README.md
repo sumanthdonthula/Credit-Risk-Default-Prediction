@@ -18,6 +18,6 @@
 
 🌐 **Streamlit Site:** Now, for the fun part – I've put together a user-friendly Streamlit website. You can make API calls and predict credit card defaults with ease.
 
-This project is all about using data to make life easier and smarter. Super excited to see how it can help folks make better financial choices. 🚀🔮💼
+Super excited to see how it can help folks make better financial choices. 🚀🔮💼
 
-If you're curious to see how it all works or just want to chat, hit me up or swing by my Streamlit site! 🌐🔗📈 #MachineLearning #CreditCardPrediction #DataScience #AI #UCI #XGBoost
+If you're curious to see how it all works, view the project on GitHub 🌐🔗📈 #MachineLearning #CreditCardPrediction #DataScience #AI #UCI #XGBoost
